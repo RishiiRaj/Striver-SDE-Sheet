@@ -1,0 +1,15 @@
+classes and objects
+
+class is a blueprint, and its object is the real use.
+
+Polymorphism means poly-many morphs-forms, means many forms.
+Polymorphism ka best example hai function overloading, because same name  methods are made, only difference 
+is that the passed arguments. this is compile time Polymorphism
+
+static ka matlab ki wo ab class ki property ho gayi hai, object ki property nahi hai.
+seedhe class_name.method() ko call karke invike kar sakte hai isko, no need to create object to call that
+method, examle count variable ko one se increment karte hai jab node  banayi jaati hai.
+
+This keyword is used  to call a constructor which has been made above if more than one constructor has been made
+issliye kyuki pehle upar wala constructor call ho, jab doosra wala parameterised constructer manually 
+call kiya jayega toh. basically constructor overloading ke time.

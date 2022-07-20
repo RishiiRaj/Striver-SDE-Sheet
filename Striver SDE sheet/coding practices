@@ -1,0 +1,10 @@
+1. if the code is long, always  break it down in functions.
+2. if there is a long if condition, put it in a functions
+3. use variables to properly show what value is what and  what is it's significance.
+4. if like  we use i-1 th position multiple times, we  can store  it in a variable names "prev value" and 
+   use that instead. This improves code readability and helps a lot.
+5. use meaningful variable names, this improves code readability.
+6. always store the length of array or grid in a variable and use that instead of using
+   nums.length in the  for loop. because it is not a good coding practice and some compilers may 
+   execute the length function again and again.
+7. valid check (if block condition) should always  be in a 'private' function.
